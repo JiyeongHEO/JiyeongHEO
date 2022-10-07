@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiyeongHEO
-- 👀 I’m interested in 'finding a job'
+- 👀 I’m interested in 'looking for a job'
 - 🌱 I’m currently learning 'Backend, machine learning, frontent'
 
 - 📫 How to reach me ... lheojyl@gmail.com
